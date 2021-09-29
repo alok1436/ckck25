@@ -1,0 +1,14 @@
+이름 (name),전화번호(number),전화번호2(number2),성별(Gender),나이(Age),지역(City),그룹(Group),이메일(Email),알게된 경로(routs of known),증권사(stock broker),증권 계좌번호(account number),주소(Address)
+Richard,111-2348-6412,112-2222-2222,남,12,서울,Group 1,zita@gmail.com,C1823 이상정,17,1111111,sumatru
+No name,010-555-8943,010-5464-4646,남,13,경상남도,테스트,awelifw@gmail.com,리리리,17,54684-654-684,테스트테스트테스트테스트테스트테스트테스트테스트테스트테스트
+No name,010-5575,02-548-4984,여,54,포항,그룹2,aeiel@gmail.com,고마미비,17,5498-8684-45,강남구 서구 호로동 마마미미
+No name,010-5577-8943,,남,13,미미,토마토,awelifj@gmail.com,다다다,17,5548-8798-4161,기억나니마마미
+No name,010-5577-9998,02-548-4984,여,54,포항,그룹2,aeiel@gmail.com,고마미비,17,5498-8684-45,강남구 서구 호로동 마마미미
+No name,010-4546-4684,,기타,,N/A,N/A,,N/A,17,,
+No name,010-5555-2222,,기타,,N/A,N/A,,N/A,17,,
+Richard,111-2348-6411,112-2222-2222,남,12,Lko,Lko,zita@gmail.com,Lko,18,1111111,sumatru
+No name,888-8888-8888,888-8888-8888,기타,26,부산,Group 2,alok@gmail.com,중앙일보,17,9.87E+14,Lku
+Hello,888-8888-8889,888-8888-8888,기타,26,부산,Group 2,alok@gmail.com,중앙일보,17,9.87E+14,Lku
+Raj,888-8888-8887,888-8888-8888,기타,26,부산,Group 2,alok@gmail.com,중앙일보,17,9.87E+14,Lku
+No name,888-8888-8883,888-8888-8888,기타,26,부산,Group 2,alok@gmail.com,중앙일보,17,9.87E+14,Lku
+ALok,888-8888-8882,888-8888-8888,기타,26,서울,Group 2,alok@gmail.com,중앙일보,17,9.87E+14,Lku

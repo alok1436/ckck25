@@ -1,0 +1,6 @@
+[25-Sep-2021 07:53:00 UTC] PHP Warning:  require(/home/ckck25com/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ckck25com/public_html/artisan on line 18
+[25-Sep-2021 07:53:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/ckck25com/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ckck25com/public_html/artisan on line 18
+[25-Sep-2021 07:53:17 UTC] PHP Warning:  require(/home/ckck25com/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ckck25com/public_html/artisan on line 18
+[25-Sep-2021 07:53:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/ckck25com/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ckck25com/public_html/artisan on line 18
+[25-Sep-2021 07:53:26 UTC] PHP Warning:  require(/home/ckck25com/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/ckck25com/public_html/artisan on line 18
+[25-Sep-2021 07:53:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/ckck25com/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ckck25com/public_html/artisan on line 18
